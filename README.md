@@ -43,5 +43,14 @@ Most reviews show neutral to positive sentiment, with a smaller portion reflecti
 4️⃣ Sentiment Analysis: Extract emotions and overall sentiment scores.<br>
 5️⃣ Word Cloud Generation: Identify common words in reviews.<br>
 6️⃣ Save Cleaned Data: Export the preprocessed dataset for further use
+<br>
 
+🛠 Technologies & Tools Used
+<br>
+R Programming<br>
+tidyverse (Data wrangling & visualization)<br>
+ggplot2 (Data visualization)<br>
+syuzhet (Sentiment analysis)<br>
+tm & wordcloud (Text mining & word cloud generation)<br>
+corrplot (Correlation heatmaps)
 
